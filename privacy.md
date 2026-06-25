@@ -2,7 +2,7 @@
 
 **TvMote ✦ Universal Remote**
 
-**Last updated:** [INSERT DATE]
+**Last updated:** [06/25/2026]
 
 This Privacy Policy explains how TvMote ✦ Universal Remote ("TvMote," "the App," "we," "us," or "our") handles information when you use our mobile application. We have designed TvMote to respect your privacy. In short: **we do not collect, store, sell, or share your personal data.**
 
@@ -75,7 +75,7 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy, contact us at:
 
-**[INSERT CONTACT EMAIL]**
+**[fulora.dev@gmail.com]**
 TvMote ✦ Universal Remote
 
 ---
