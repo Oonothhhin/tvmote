@@ -2,7 +2,7 @@
 
 **TvMote ✦ Universal Remote**
 
-**Last updated:** [INSERT DATE]
+**Last updated:** [06/25/2026]
 
 Please read these Terms and Conditions ("Terms") carefully before using TvMote ✦ Universal Remote ("TvMote," "the App," "we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -92,7 +92,7 @@ This App is made available through the Apple App Store and Google Play. You agre
 
 If you have questions about these Terms, contact us at:
 
-**[INSERT CONTACT EMAIL]**
+**[fulora.dev@gmail.com]**
 TvMote ✦ Universal Remote
 
 ---
